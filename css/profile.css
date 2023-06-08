@@ -262,6 +262,8 @@ img {
     height: 50%;
     padding: 25px;
     font-size: .9em;
+    border-radius: 0;
+    border: none;
 }
 
 }
