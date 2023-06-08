@@ -131,19 +131,19 @@ img {
 }
 
 .hq-image {
-    background-image: url('img/hq1.jpg');
+    background-image: url('hq1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .hq-image2 {
-    background-image: url('img/hq2.jpg');
+    background-image: url('hq2.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .hq-image3 {
-    background-image: url('img/hq3.jpg');
+    background-image: url('hq3.jpg');
     background-size: cover;
     background-position: center;
 }
