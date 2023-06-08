@@ -50,11 +50,17 @@ header {
     padding: 10px 15px 10px 15px;
 }
 
+
 .navbar a:hover {
     color: #333;
     background-color: #fff;
     border-radius: 6px;
-    transition: .3s ease-in-out;
+    transition: .5s ease-in-out;
+}
+
+.actived {
+    color: #333!important;
+    background-color: #fff !important;
 }
 
 .hero {
@@ -81,7 +87,7 @@ header {
     color: #fff;
     font-weight: 500;
     margin-top: 20px;
-    transition: .5s;
+    transition: .5s ease-in-out;
 }
 
 .btnProfile-popup:hover {

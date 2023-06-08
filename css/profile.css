@@ -54,7 +54,12 @@ header {
     color: #333;
     background-color: #fff;
     border-radius: 6px;
-    transition: .3s ease-in-out;
+    transition: .5s ease-in-out;
+}
+
+.actived {
+    color: #333!important;
+    background-color: #fff !important;
 }
 
 .profile {
